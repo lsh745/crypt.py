@@ -12,7 +12,7 @@ You can use this for decrypt Caesar or Vigenere cipher.
 >
 > **G**uess : **-g**, Use with **-t** if you know the part of **-g** is **-t**.
 >
-> **T**arget : Must use with **-g**
+> **T**arget : **-t**, Must use with **-g**
 >
 > **P**lus/**M**inus : **-pm**, Default is '-'. If you want to change the Caesar or Vigenere ciphers calculation direction.
 
