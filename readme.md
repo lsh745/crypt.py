@@ -70,7 +70,7 @@ You can use this for decrypt Caesar or Vigenere cipher.
 ```
 ❯ python3 crypt.py -c "Rijvsmysmysmy Itovwyrc! Ns wyy ixsu Glm kq G? wc lkqc sw qwsmdlkkr sr...M ixsu fipi acvp urer iss geld! Md iss mel niastfov rrmq mvwzxmqvyw, cme gyx kcd xfo gmbvcmx yxwuov. qy, jjkk gc LymoADJ{t_tzwi_3vxbd0p3_vff.afy'q_wzoxpq_dp_qfz}" -g "LymoADJ" -t "HackCTF"
 
-❯KEY : KEY
+❯ KEY : KEY
 Hellooooooooo Everyone! Do you know Who am I? my name is smoothman uh...I know very well what you want! If you can decipher this cryptogram, you can get the correct answer. so, flag is HackCTF{v_jvyy_3rzrz0r3_lbh.qba'g_sbetrg_zr_gbb}
 ```
 
