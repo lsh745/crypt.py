@@ -1,4 +1,4 @@
-# crypt.py
+# readme
 
 You can use this for decrypt Caesar or Vigenere cipher.
 
