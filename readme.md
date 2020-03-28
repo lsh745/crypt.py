@@ -1,4 +1,4 @@
-# readme
+# Readme
 
 You can use this for decrypt Caesar or Vigenere cipher.
 
