@@ -10,7 +10,7 @@ You can use this for decrypt Caesar or Vigenere cipher.
 >
 > **K**ey : **-k**, Use this if you know the key of the Vigenere cipher.
 >
-> **G**uess : **-g**, Use with **-t** if you know the part of **-g** is **-t**.
+> **G**uess : **-g**, Use with **-t** if you know **-g** is **-t**.
 >
 > **T**arget : **-t**, Must use with **-g**
 >
